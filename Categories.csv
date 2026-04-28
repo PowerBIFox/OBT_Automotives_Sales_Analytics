@@ -1,0 +1,14 @@
+﻿CategoryCode CategoryName
+------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1            ConstructionMachinery
+2            Forestry&Agriculture
+3            HeavyEarthMoving
+4            Industrial
+5            RenewableEnergy
+6            Transportation
+7            Lubricants
+
+(7 rows affected)
+
+
+Completion time: 2026-04-24T21:28:55.7828543+05:30
